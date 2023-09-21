@@ -1,0 +1,13 @@
+.footer {
+    background-color: #fff1ed;
+}
+
+.logo-img-footer {
+    width: 10rem;
+    height: auto;
+    min-width: 8rem;
+}
+
+.col-6 p {
+    font-size: 14px;
+}
