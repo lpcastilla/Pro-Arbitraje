@@ -1,3 +1,27 @@
 .h-100 {
     background-color: #374b73;
 }
+
+.landing-img {
+    width: 90rem;
+    height: auto;
+    min-width: 40rem;
+}
+
+.title {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%; 
+}
+  
+.search-bar {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 65%; 
+    max-width: 500px; 
+}
+
